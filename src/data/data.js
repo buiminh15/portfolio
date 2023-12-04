@@ -13,13 +13,13 @@ export const data=[
         github:"https://github.com/buiminh15/next_raven_digital",
         live:"https://next-raven-digital.vercel.app/",
     },
-    {
-        id:2,
-        name:"Next JS Translation Application",
-        image:Translate,
-        github:"https://github.com/buiminh15/nextjs_translate_doc",
-        live:"https://nextjs-translate-doc.vercel.app/",
-    },
+    // {
+    //     id:2,
+    //     name:"Next JS Translation Application",
+    //     image:Translate,
+    //     github:"https://github.com/buiminh15/nextjs_translate_doc",
+    //     live:"https://nextjs-translate-doc.vercel.app/",
+    // },
     {
         id:3,
         name:"Next JS Landing Page",
